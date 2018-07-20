@@ -1,0 +1,3 @@
+Total number of weights : 61379782
+Weights in bytes : 245519128 bytes
+Weights in Mbytes : 245 Mbytes
